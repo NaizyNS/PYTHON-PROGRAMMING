@@ -1,0 +1,5 @@
+n=input("enter the  first number:")
+m=input("enter the second number:")
+p=input("enter the third number:")
+sum=float(n)+float(m)+float(p)
+print("sum=",sum)
